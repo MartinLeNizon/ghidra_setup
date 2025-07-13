@@ -45,7 +45,7 @@
         <STATE NAME="MouseBinding" TYPE="string" VALUE="" />
     </WRAPPED_OPTION>
     <WRAPPED_OPTION NAME="Previous Location in History (NextPrevAddressPlugin)" CLASS="ghidra.framework.options.WrappedActionTrigger">
-        <STATE NAME="KeyStroke" TYPE="string" VALUE="alt pressed LEFT" />
+        <STATE NAME="KeyStroke" TYPE="string" VALUE="pressed ESCAPE" />
         <STATE NAME="MouseBinding" TYPE="string" VALUE="Button4" />
     </WRAPPED_OPTION>
     <WRAPPED_OPTION NAME="Add (DataTypePreviewPlugin)" CLASS="ghidra.framework.options.WrappedActionTrigger">
@@ -233,7 +233,7 @@
         <STATE NAME="MouseBinding" TYPE="string" VALUE="" />
     </WRAPPED_OPTION>
     <WRAPPED_OPTION NAME="Next Location in History (NextPrevAddressPlugin)" CLASS="ghidra.framework.options.WrappedActionTrigger">
-        <STATE NAME="KeyStroke" TYPE="string" VALUE="alt pressed RIGHT" />
+        <STATE NAME="KeyStroke" TYPE="string" VALUE="ctrl pressed ENTER" />
         <STATE NAME="MouseBinding" TYPE="string" VALUE="Button5" />
     </WRAPPED_OPTION>
     <WRAPPED_OPTION NAME="Cycle: byte,word,dword,qword (Shared)" CLASS="ghidra.framework.options.WrappedActionTrigger">
